@@ -33,7 +33,7 @@ Python-Projects/
 ```
 
 **Overview:**
-- **Project 1:** *Unit of Measurement Converter*
+- **Project 1:** *Unit of Measurement Converter*  
   A simple tool for converting between different units of measurement
 
 - **Project 2:** *Calculator*  
@@ -47,4 +47,3 @@ Python-Projects/
 
 - **Project 5:** *Web Scraping & Regex*  
   Analyzes text data using web scraping and regular expressions
-
